@@ -1,8 +1,3 @@
-
-
-<img src="./Resume.png">
-
-
 ## 如何使用
 
 把该项目 Clone 之后，修改 [Resume.md](Resume.md) 文件即可。
