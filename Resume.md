@@ -1,62 +1,159 @@
  <center>
-     <h1>XXX</h1>
+     <h1>杜宽榜</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             <img src="/home/du/Downloads/Markdown-Resume-master/assets/phone-solid.svg" width="18px">
+             19975397556
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <img src="/home/du/Downloads/Markdown-Resume-master/assets/envelope-solid.svg" width="18px">
+             19975397556@163.com
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+ ## <img src="/home/du/Downloads/Markdown-Resume-master/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+ - 男，1997 年出生
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+ - 求职意向：Linux运维工程师、Linux运维开发工程师
 
-   负责 XXX
+ - 工作经验：2 年
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+ - 期望薪资：面议
 
-- **XXXX 项目**
 
-  *使用到的技术*
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+## <img src="/home/du/Downloads/Markdown-Resume-master/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+- 学士，南阳理工学院，软件工程专业（云计算方向），2015.9~2019.6
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+
+## <img src="/home/du/Downloads/Markdown-Resume-master/assets/briefcase-solid.svg" width="30px"> 工作经历
+
+- **杭州诚品科技有限公司，2019.6~2020.6**
+
+  **岗位**：Linux运维工程师
+
+  * 负责云平台Kubernetes部分的运维支撑
+  * 配合项目组部署项目，并解决相关问题
+  * 测试并引进相关组件，方便平台的使用
+  * 制订并完善云平台kubernetes方面的规范和文档
+
+  ## <img src="/home/du/Downloads/Markdown-Resume-master/assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+  - **云平台运行维护项目**
+
+    **内容**：现有云平台是以阿里云飞天分布式操作系统作为平台底层基础，融合了开源Hadoop，docker，kubernetes技术的云服务平台。提供基础资源，数据计算，应用开发，安全管理等四大类组件以满足用户的需求。
+
+    **职责**：
+
+    * 配合项目组应用上云，包括对阿里云和K8S平台应用上云的支持
+
+    * 应⽤上云相关流程以及k8s使用规范文档的编写和完善
+
+    * 监控云平台容器平台的水位瓶颈，并维护k8s的相关组件正常运行
+
+      ***
+
+  - **镜像库Harbor高可用方案实施**
+
+    **内容**：云平台之前的公共镜像仓库（Harbor）部署方式为单节点部署，通过Harbor官方提供的镜像，各组件都只有一个容器，存在单点故障的风险。在要求不高的场合下，可以使用；但在生产环境中，是不能直接使用的，因此需要改动之前单节点架构为高可用方式部署来提高应用的高可用性。
+
+    **职责**：
+
+    * harbor高可用⽂档的编写
+
+    * Harbor高可用方案的选择
+
+    * 执行方案，对原有的镜像库架构进行改动。使其成为高可用架构模式
+
+      ***
+
+  - **搭建jumpserver跳板机管理混乱账户**
+
+    **内容**：在投入工作的几个月里，我发现公司的服务器运维管理中对于服务器账号的管理十分混乱，原有的teleport堡垒机版本太旧，且功能不是很完善，于是，几经思考，我向领导建议启用开源型的跳板机jumpserver来改善目前混乱的状况。
+
+    **描述**：
+
+    * 部署jumpserver跳板机
+
+    * 测试并配置jumpserver
+
+    * 停用原有teleport服务器启用jumpserver
+
+
+***
+
+- **上海世外智慧**， **Linux运维工程师**，**2020.6~**
+
+  **岗位**：Linux运维工程师
+
+  * 项目日常迭代部署
+
+  * 组织架构完善
+
+## <img src="/home/du/Downloads/Markdown-Resume-master/assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+- **Devops流程完善**
+
+  **内容**：随着生产环境部署频率越来越快，为了降低那些重复工作的成本、降低人工误操作的概率，提升IT部门的单位生产率。
+
+  **职责**：
+
+  * 前端，编写ansible-playbook，利用docker容器编译静态文件，并将其推送到s3存储桶，使用aws中s3的静态网页托管服务发布。
+
+  * 后端，编写Dockerfile，使用docker-compose打包并推送到镜像仓库。随后使用helm将其发布到kubernetes中。
+
+
+  ***
+
+   - **监控平台搭建及完善**
+
+     **内容**：随着公司应用的不断增长，网络规模的不断扩大。需要对系统实时监控并反馈服务状态信息。需要一套全方位、易管理的IT运维监控解决方案最大限度实现服务器、存储、交换机、安全产品、操作系统及数据库等资源的集中实时监控，同时提供告警事件管理、告警通知管理，报表管理，并通过可视化的运维管理平台，有效提高了企业IT运维管理效率。
+
+     **职责**：
+
+     * 搭建promethus平台
+
+     * 在服务器上部署node-exporter收集采集项
+
+     * 配置自定义监控指标
+
+     * 设置告警规则，触发告警
+
+     * 配置grafana前台页面实现可视化
+
+  ***
+
+## <img src="/home/du/Downloads/Markdown-Resume-master/assets/tools-solid.svg" width="30px"> 技能清单
+
+* ★★★ 精通Kubernetes，精通docker,精通Kubernetes运维。
+
+* ★★☆ 熟悉Linux ，熟悉 Linux 操作系统对常见的软硬件故障有一定的排错能⼒。
+
+* ★★☆熟悉shell，能够利用shell编写脚本
+
+* ★★☆ 熟悉Golang，有一定的编程能力
+
+* ★★☆ 熟悉自动化运维工具，如ansible
+
+* ★☆☆ 对公有云有所了解，使用过阿里云，aws等
+
+
+***
+
+## 自我评价
+
+1. 能够快速的适应各种⼯作环境，具有良好的分析能力，自学能力，适应能力；
+
+2. 工作积极进取,对软件行业有着浓厚的兴趣；
+
+3. 具有良好的人际交往、组织及沟通协调能力以及团队精神；
+
+4. 为人诚恳，踏实肯干，认真负责，敢于面对困难和挑战，爱岗敬业。
+
