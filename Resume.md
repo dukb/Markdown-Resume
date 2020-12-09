@@ -2,12 +2,12 @@
      <h1>杜宽榜</h1>
      <div>
          <span>
-             <img src="/home/du/Downloads/Markdown-Resume-master/assets/phone-solid.svg" width="18px">
+             <img src="assets/phone-solid.svg" width="18px">
              19975397556
          </span>
          ·
          <span>
-             <img src="/home/du/Downloads/Markdown-Resume-master/assets/envelope-solid.svg" width="18px">
+             <img src="assets/envelope-solid.svg" width="18px">
              19975397556@163.com
          </span>
      </div>
@@ -16,7 +16,7 @@
 
 
 
- ## <img src="/home/du/Downloads/Markdown-Resume-master/assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1997 年出生
 
@@ -28,12 +28,12 @@
 
 
 
-## <img src="/home/du/Downloads/Markdown-Resume-master/assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士，南阳理工学院，软件工程专业（云计算方向），2015.9~2019.6
 
 
-## <img src="/home/du/Downloads/Markdown-Resume-master/assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **杭州诚品科技有限公司，2019.6~2020.6**
 
@@ -44,7 +44,7 @@
   * 测试并引进相关组件，方便平台的使用
   * 制订并完善云平台kubernetes方面的规范和文档
 
-  ## <img src="/home/du/Downloads/Markdown-Resume-master/assets/project-diagram-solid.svg" width="30px"> 项目经历
+  ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
   - **云平台运行维护项目**
 
@@ -97,7 +97,7 @@
 
   * 组织架构完善
 
-## <img src="/home/du/Downloads/Markdown-Resume-master/assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **Devops流程完善**
 
@@ -130,7 +130,7 @@
 
   ***
 
-## <img src="/home/du/Downloads/Markdown-Resume-master/assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 * ★★★ 精通Kubernetes，精通docker,精通Kubernetes运维。
 
